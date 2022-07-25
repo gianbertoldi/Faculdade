@@ -6,26 +6,27 @@ public class LeituraSemRepeticao {
 
     public static void main(String[] args) {
         Scanner key = new Scanner(System.in);
-        int cons = 1, x = 1;
-        int valor[] = new int[11], tela[] = new int[11];
+        int temp = 1,cont = 0, x = 0, j = 0, i;
+        int v[] = new int[10], tela[] = new int[10];
         
-        
-        for (int i = 1; i != 11; i++) {
-            while(cons != 0){
-                cons = key.nextInt();
-                valor[i] = cons;
-                tela[x] = valor[i];
-                System.out.println(tela[x]);
-            }
-            if (valor[i] != tela[x]) {
-                tela[x] = valor[i];
-                x++;
-                System.out.println(tela[x]);
+        while(temp != 0){
+            for (i = 0; i < 10; i++) {
+                System.out.println("Qual o valor");
+                v[i] = key.nextInt();
+                temp = v[i];
             }
         }
-        for (int y = 0; y < 10; y++) {
-            System.out.print(tela[x] + " ");
-        }
+        i = 1;
+        tela[0] = v[0];
+        System.out.print(tela[0] + " ");
         
+        while (i != 10){
+            if (tela[j] != v[i]) {
+                tela[j] = v[i];
+                System.out.print(tela[j] + " ");
+                j++;
+            }
+            i++;
+        }
     }
 }
