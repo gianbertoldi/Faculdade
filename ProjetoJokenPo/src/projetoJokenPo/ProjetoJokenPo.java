@@ -1,12 +1,12 @@
     
-package projetobea;
+package projetoJokenPo;
 
 import java.util.Random;
 import java.util.Scanner;
 
 
 
-public class ProjetoBea {
+public class ProjetoJokenPo {
 
   
     @SuppressWarnings("empty-statement")
