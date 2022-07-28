@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AcimaDaMedia/src"/>
+	<classpathentry kind="src" path="AreaDeUmCirculo/src"/>
+	<classpathentry kind="src" path="AValeB/src"/>
+	<classpathentry kind="src" path="Avaliacao/src"/>
+	<classpathentry kind="src" path="Avaliacao01/src"/>
+	<classpathentry kind="src" path="ChurrasConv/src"/>
+	<classpathentry kind="src" path="ClassificacaoNumerica/src"/>
+	<classpathentry kind="src" path="ConFahrForKelv/src"/>
+	<classpathentry kind="src" path="ConvertFahrForCel/src"/>
+	<classpathentry kind="src" path="CrescArvore/src"/>
+	<classpathentry kind="src" path="CrescArvoreRev/src"/>
+	<classpathentry kind="src" path="ExeFabine/src"/>
+	<classpathentry kind="src" path="ExeModuloOitoUm/src"/>
+	<classpathentry kind="src" path="ExemploMaisMaisI/src"/>
+	<classpathentry kind="src" path="FibonacciIntervaloVetorial/src"/>
+	<classpathentry kind="src" path="FormaUmTriangulo/src"/>
+	<classpathentry kind="src" path="GuardeX/src"/>
+	<classpathentry kind="src" path="HoraMinDeJogo/src"/>
+	<classpathentry kind="src" path="HrasDeJogo/src"/>
+	<classpathentry kind="src" path="IntervaloEntreNum/src"/>
+	<classpathentry kind="src" path="Intervalos/src"/>
+	<classpathentry kind="src" path="JavaApplication6/src"/>
+	<classpathentry kind="src" path="LeituraSemRepeticao/src"/>
+	<classpathentry kind="src" path="MaiorDeDoisNum/src"/>
+	<classpathentry kind="src" path="MaiorDeUmaLimiar/src"/>
+	<classpathentry kind="src" path="MaiorMedia/src"/>
+	<classpathentry kind="src" path="MaiorNotaTurma/src"/>
+	<classpathentry kind="src" path="MediaArit/src"/>
+	<classpathentry kind="src" path="MediaCinVal/src"/>
+	<classpathentry kind="src" path="MediaVetor01/src"/>
+	<classpathentry kind="src" path="MetadeDoAnterior/src"/>
+	<classpathentry kind="src" path="MinDecorrido/src"/>
+	<classpathentry kind="src" path="NumeroPrefeito/src"/>
+	<classpathentry kind="src" path="NumeroPrimo/src"/>
+	<classpathentry kind="src" path="NumeroPrimo01/src"/>
+	<classpathentry kind="src" path="NumerosPar/src"/>
+	<classpathentry kind="src" path="OrdemCres/src"/>
+	<classpathentry kind="src" path="PagamentoEmNotas/src"/>
+	<classpathentry kind="src" path="ParOuImpar/src"/>
+	<classpathentry kind="src" path="PercentualDeSalario/src"/>
+	<classpathentry kind="src" path="PolMil/src"/>
+	<classpathentry kind="src" path="Primo/src"/>
+	<classpathentry kind="src" path="Prog1/src"/>
+	<classpathentry kind="src" path="ProjDeEntESai/src"/>
+	<classpathentry kind="src" path="Projeto laço/ClassificacaoNumerica/src"/>
+	<classpathentry kind="src" path="Projeto laço/CrescArvore/src"/>
+	<classpathentry kind="src" path="Projeto laço/IntervaloEntreNum/src"/>
+	<classpathentry kind="src" path="Projeto laço/Intervalos/src"/>
+	<classpathentry kind="src" path="Projeto laço/NumeroPrefeito/src"/>
+	<classpathentry kind="src" path="Projeto laço/NumeroPrimo01/src"/>
+	<classpathentry kind="src" path="Projeto laço/SerieFibonacci/src"/>
+	<classpathentry kind="src" path="ProjetoBea/src"/>
+	<classpathentry kind="src" path="RaizQuadrada/src"/>
+	<classpathentry kind="src" path="RelebrandoExUm/src"/>
+	<classpathentry kind="src" path="SerieFibonacc02i/src"/>
+	<classpathentry kind="src" path="SerieFibonacci/src"/>
+	<classpathentry kind="src" path="SerieFibonacciVetorial/src"/>
+	<classpathentry kind="src" path="SomaDeDoisVetores/src"/>
+	<classpathentry kind="src" path="TesteDeProva/src"/>
+	<classpathentry kind="src" path="TesteLeituraSemRepeticao/src"/>
+	<classpathentry kind="src" path="TrocaValoresEmUmVet/src"/>
+	<classpathentry kind="src" path="VetorDiaFimMes/src"/>
+	<classpathentry kind="src" path="VetoresUm/src"/>
+	<classpathentry kind="lib" path="AreaDeUmCirculo/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="AValeB/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="ChurrasConv/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="ClassificacaoNumerica/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="ConFahrForKelv/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="ConvertFahrForCel/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="CrescArvore/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="CrescArvoreRev/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="ExeFabine/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="ExeModuloOitoUm/dist/ExeModuloOitoUm.jar"/>
+	<classpathentry kind="lib" path="ExemploMaisMaisI/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="FormaUmTriangulo/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="GuardeX/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="HoraMinDeJogo/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="HrasDeJogo/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="IntervaloEntreNum/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="Intervalos/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="JavaApplication6/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="MaiorDeDoisNum/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="MaiorDeUmaLimiar/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="MaiorNotaTurma/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="MediaArit/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="MediaCinVal/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="MediaVetor01/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="MinDecorrido/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="NumeroPrefeito/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="NumeroPrimo/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="NumeroPrimo01/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="NumerosPar/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="OrdemCres/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="PagamentoEmNotas/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="ParOuImpar/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="PercentualDeSalario/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="PolMil/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="Primo/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="Prog1/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="ProjDeEntESai/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="Projeto laço/ClassificacaoNumerica/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="Projeto laço/CrescArvore/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="Projeto laço/IntervaloEntreNum/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="Projeto laço/Intervalos/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="Projeto laço/NumeroPrefeito/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="Projeto laço/NumeroPrimo01/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="Projeto laço/SerieFibonacci/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="RaizQuadrada/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="SerieFibonacc02i/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="SerieFibonacci/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="TesteDeProva/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="VetorDiaFimMes/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="VetoresUm/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="output" path="AValeB/build/classes"/>
+</classpath>
