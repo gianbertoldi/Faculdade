@@ -12,7 +12,7 @@ public class NumeroPrimo {
         System.out.println("Digite o numero que deseja saber se é primo");
         a = key.nextInt();
         
-        while (i <= a){
+        while (i <= (a/2)){
             if (i%a == 0) {
                 primo = true;
             }
