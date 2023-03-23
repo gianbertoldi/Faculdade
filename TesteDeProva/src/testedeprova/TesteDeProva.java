@@ -14,14 +14,19 @@ public class TesteDeProva {
         switch (ext) {
             case 1:
                 int[] vetor = new int[5];
+                int soma = 0;
                 
                 vetor[1] = key.nextInt();
                 vetor[2] = key.nextInt();
                 vetor[3] = key.nextInt();
                 vetor[4] = key.nextInt();
         
-                vetor[0] = (vetor[1] + vetor[2] + vetor[3] + vetor[4])/4;
-                System.out.println(vetor[0]);
+                for (int i = 0; i < 4; i++){
+                    vetor[i] = key.nextInt();
+                    vetor[4] += vetor[i];
+                }
+                vetor[4] /= 4;
+                System.out.println(vetor[4]);
                 System.out.println("Terminou");
             break;
             
